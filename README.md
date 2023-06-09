@@ -1,5 +1,5 @@
 # Altitude subgraphs
-These subgraphs sources events from the Altitude contracts. More information on all of this can be found at [The Graph](https://thegraph.com/docs/en/).
+These subgraphs sources events from the Altitude contracts. More information on all of this can be found at [The Graph](https://thegraph.com/docs/en/about/).
 
 Still a work in progress!
 
