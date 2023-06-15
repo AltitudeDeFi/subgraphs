@@ -7,7 +7,7 @@ The Graph exposes a GraphQL endpoint to query the events and entities within the
 
 Current subgraph locations:
 
-   + https://thegraph.com/explorer/subgraph/iamchmp/altitest (fuji) **!not final!**
+   + https://thegraph.com/hosted-service/subgraph/iamchmp/altitudetestnet (fuji) **!not final!**
    + upcoming release (arbitrum)
    + upcoming release (optimism)
    + upcoming release (ethereum)
